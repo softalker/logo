@@ -1,0 +1,7 @@
+body {
+	border: 6px solid gray;
+	height: 500px;
+	width: 500px;
+	line-height: .942em;
+	border-radius: 256px;
+}
