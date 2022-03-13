@@ -9,7 +9,7 @@
           </restriction>
         </simpleType>
       </attribute>
-      <attribute name="icon" type="boolean" default="false" />
+      <attribute name="size" type="int" default="512" />
     </complexType>
   </element>
 </schema>
