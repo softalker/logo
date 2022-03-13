@@ -5,7 +5,7 @@
       <title>Softalks Logo</title>
       <meta name="charset" content="utf-8" />
       <meta name="viewport" content="initial-scale=1" />
-      <link rel="stylesheet" href="/logo/common.css" />
+      <link rel="stylesheet" href="/logo/style.css" />
       <o:variable name="size" select="@size"></o:variable>
       <variable name="ratio" xmlns="http://www.w3.org/1999/XSL/Transform">
         <choose>

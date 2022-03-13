@@ -1,0 +1,4 @@
+<?xml-stylesheet type="text/xsl" href="../../transformation.xsl"?>
+<logo size="16" shape="square" xmlns="http://softalks.github.io/logo/language.xsd"
+	xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+	i:schemaLocation="http://softalks.github.io/logo/language.xsd ../../language.xsd" />

@@ -6,10 +6,11 @@ html {
   background-color: black;
 }
 span {
-  background: -webkit-linear-gradient(bottom, black 54%, floralwhite 60.3%, black 60.4%);
+  background: -webkit-linear-gradient(bottom, black 54%, white 60.3%, black 60.4%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
+  
 }
 body {
   margin: 0;

@@ -1,7 +1,7 @@
 <schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://softalks.github.io/logo/language.xsd" elementFormDefault="qualified">
   <element name="logo">
     <complexType>
-      <attribute name="shape">
+      <attribute name="shape" default="square">
         <simpleType>
           <restriction base="string">
             <enumeration value="circle" />
@@ -9,7 +9,7 @@
           </restriction>
         </simpleType>
       </attribute>
-      <attribute name="size" type="int" default="512" />
+      <attribute name="size" type="int" use="required" />
     </complexType>
   </element>
 </schema>
