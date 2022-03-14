@@ -5,7 +5,7 @@ Cada fichero estará en un directorio cuyo nombre corresponderá al tamaño en p
 
 El logo cuadrado del 512 pixels de lado, por ejemplo, está definido en el fichero: docs/squares/512/index.xml
 
-Los archivos *png* se generan a partir de la página HTML resultante de la transformación XSLT de dichos ficheros XML. Para ello se usa la extensión [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) de Chrome/Edge. Tras pulsar el botón de la extensión es necesario seguir estos pasos:
+Los archivos *png* se an generado manualmente a partir de la página HTML resultante de la transformación XSLT de dichos ficheros XML. Para ello se usa la extensión [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) de Chrome/Edge. Tras pulsar el botón de la extensión es necesario seguir estos pasos:
 - Seleccionar la pestaña *Capture* (si no estuviera ya seleccionada)
 - Pulsar el botón *Visible Part* (se mostrará una pantalla propia de la extensión)
 - Pulsar en *Done* de la esquina superior derecha (se mostrará una nueva pantalla)
