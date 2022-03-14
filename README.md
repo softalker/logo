@@ -1,0 +1,1 @@
+Todos los archivos png se generan a partir de la página HTML usando una extensión de Chrome: (Awesome Screenshot)[https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj]
