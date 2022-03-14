@@ -1,9 +1,9 @@
 # Logos circulares
 Estos logos requiren un paso extra para eliminar las esquinas. Este proceso no es automático y se realiza usando la herramiente online [Round PNG Corners](https://onlinepngtools.com/round-png-corners)
 
-La configuración que se muestra a continuación sería la apropiada para un logo de 512 pixels de diámetro
+La configuración que se muestra a continuación (en la zona etiquetada como *png rounder options*) sería la apropiada para un logo de 512 pixels de diámetro
 
 ![rounder](https://user-images.githubusercontent.com/4023320/158087879-b70ee492-3188-4acb-a725-2c7da6dc9c3e.jpg)
 
 Para obtener una imagen redondeada hay que seguir estos pasos
-- Arrastrar el fichero sin redondear a la zona etiquetada como **
+- Arrastrar el fichero sin redondear a la zona etiquetada como *png*
