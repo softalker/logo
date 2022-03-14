@@ -5,4 +5,4 @@ Los archivos *png* se generan a partir de la página HTML resultante de la trans
 - Seleccionar la pestaña *Capture*
 - Pulsar el botón *Visible Part* (se mostrará una pantalla propia de la extensión)
 - Pulsar en *Done* (se mostrará una nueva pantalla)
-- Pulsar el icono de descarga
+- Pulsar el icono de descarga (tooltip: Download as image)
