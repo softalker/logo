@@ -1,8 +1,16 @@
 # Softalks Logo
-Cada versión del logo se define en un fichero XML en el que se indica el tamaño y la forma del logo correspondientes a dicha versión
+Cada versión del logo se define en un fichero XML, llamado `index.xml`, que especifica un tamaño y forma determinados para el logo
 
-Los archivos *png* se generan a partir de la página HTML resultante de la transformación XSLT de dichos ficheros XML. Para ello se usa la extensión [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) de Chrome/Edge. Tras pulsar el botón de la extensión es necesario seguir estos pasos:
-- Seleccionar la pestaña *Capture*
+Cada fichero está contenido en un directorio cuyo nombre se corresponde con el tamaño en pixels del logo (lado del cuadrado/diámetro del círculo). Dichos directorios estarán contenidos, a su vez, en el subdirectorio de *docs* que corresponda a la forma especificada (*circles*/*squares*). 
+
+El logo cuadrado de 512 pixels de lado, por ejemplo, está definido en el fichero `docs/squares/512/index.xml` y estará disponible en la URI correspondiente: `http://softalks.github.io/logo/squares/512`
+
+Los archivos *.png* se han generado manualmente a partir de la página HTML resultante de la transformación XSLT de dichos ficheros XML. Para ello se ha hecho uso de la extensión [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) de Chrome/Edge siguiendo estos pasos:
+- Activar las *Chrome Developer Tools* (Ctrl + Shift + I) 
+- Pulsar el botón *Toggle device emulation* (Ctrl + Shift + M) y establecer las dimensiones del logo deseado
+- Introducir la dirección del fichero `index.xml` correspondiente en la barra de direcciones (o, si ya se ha introducido, refrescar la página)
+- Ejecutar la extensión *Awesome Screenshot*
+- Seleccionar la pestaña *Capture* (si no estuviera ya seleccionada)
 - Pulsar el botón *Visible Part* (se mostrará una pantalla propia de la extensión)
-- Pulsar en *Done* (se mostrará una nueva pantalla)
+- Pulsar en *Done* de la esquina superior derecha (se mostrará una nueva pantalla)
 - Pulsar el icono de descarga (tooltip: Download as image)
