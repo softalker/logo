@@ -7,5 +7,5 @@ La configuración que se muestra a continuación (en la zona etiquetada como *pn
 
 Para obtener una imagen redondeada, una vez establecida la configuración mencionada anteriormente, hay que seguir estos pasos
 - Arrastrar la imagen original a la zona etiquetada como *png* o pinchar en dicha zona y seleccionar el fichero correspondiente
-- Seleccionar Save as en la zona etiquetada como *rounded png* (lo que activará una nueva opción seleccionable en la misma zona: Download)
+- Seleccionar Save as en la zona etiquetada como *rounded png* (lo que activará una nueva opción: Download)
 - Seleccionar la opción *Download*
