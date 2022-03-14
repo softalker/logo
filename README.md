@@ -3,7 +3,7 @@ Cada versión del logo se define en un fichero XML, llamado `index.xml`, que esp
 
 Cada fichero estará en un directorio cuyo nombre corresponderá al tamaño en pixels del logo (lado del cuadrado/diámetro del círculo). Dichos directorios estarán contenidos en el subdirectorio de *docs* que corresponda a la forma especificada (*circles*/*squares*). 
 
-El logo cuadrado de 512 pixels de lado, por ejemplo, está definido en el fichero: `docs/squares/512/index.xml`
+El logo cuadrado de 512 pixels de lado, por ejemplo, está definido en el fichero: `docs/squares/512/index.xml` y estará disponible en la URI `http://softalks.github.io/logo/squares/512`
 
 Los archivos *.png* se han generado manualmente a partir de la página HTML resultante de la transformación XSLT de dichos ficheros XML. Para ello se ha hecho uso de la extensión [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) de Chrome/Edge siguiendo, tras ejecutarla, estos pasos:
 - Activar las *Chrome Developer Tools* (Ctrl + Shift + I) 
