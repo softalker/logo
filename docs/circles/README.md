@@ -6,4 +6,4 @@ La configuración que se muestra a continuación (en la zona etiquetada como *pn
 ![rounder](https://user-images.githubusercontent.com/4023320/158087879-b70ee492-3188-4acb-a725-2c7da6dc9c3e.jpg)
 
 Para obtener una imagen redondeada hay que seguir estos pasos
-- Arrastrar el fichero sin redondear a la zona etiquetada como *png*
+- Arrastrar la imagen original a la zona etiquetada como *png* o pinchar en dicha zona y seleccionar el fichero correspondiente
