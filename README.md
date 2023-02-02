@@ -1,5 +1,5 @@
 # Softalks Logo
-Cada versión del logo se define en un fichero XML, llamado `index.xml`, que especifica un tamaño y forma determinados para el logo
+Cada versión del logo se define en un fichero XML, llamado `index.xml`, que especifica su tamaño y su forma
 
 Cada fichero está contenido en un directorio cuyo nombre se corresponde con el tamaño en pixels del logo (lado del cuadrado/diámetro del círculo). Dichos directorios estarán contenidos, a su vez, en el subdirectorio de *docs* que corresponda a la forma especificada (*circles*/*squares*). 
 
